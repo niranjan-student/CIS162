@@ -5,7 +5,18 @@ html {
 
 header{
     font-weight: bold;
-    color:rgb(104, 207, 0);
+    color:rgb(218, 24, 24);
+
+h1{
+    color: rgb(104, 207, 0);
+    font-weight: bold;
+
+}
+
+h2 {
+    font-weight: bold;
+    color:rgb(218, 24, 24);
+}
 
 }
 section {
