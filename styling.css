@@ -1,13 +1,13 @@
 html {
-    background-color: darkgrey;
+    background-color: rgb(60, 60, 60);
     font-family: monospace;
 }
 
 header{
     font-weight: bold;
-    color:chartreuse;
+    color:rgb(104, 207, 0);
 
 }
 section {
-    color: grey;
+    color: rgb(153, 153, 153);
 }
