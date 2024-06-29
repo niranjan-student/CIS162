@@ -10,11 +10,11 @@ header{
 h1{
     color: rgb(77, 153, 0);
     font-weight: bold;
-    font-size: 22px;
+    font-size: 32px;
 
 }
 
-h2 {
+h2{
     font-weight: bold;
     color:rgb(158, 8, 8);
     font-size: 18px;
@@ -25,7 +25,7 @@ section {
     color: rgb(199, 199, 199);
     font-size: 14px;
     width: 80%;
-    margin: 10%;
+    margin: 2%;
 }
 
 nav > ul {
