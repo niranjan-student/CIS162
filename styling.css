@@ -10,15 +10,32 @@ header{
 h1{
     color: rgb(104, 207, 0);
     font-weight: bold;
+    font-size: 22px;
 
 }
 
 h2 {
     font-weight: bold;
     color:rgb(218, 24, 24);
+    font-size: 18px;
 }
 
 }
 section {
     color: rgb(199, 199, 199);
+    font-size: 14px;
+    width: 80%;
+    margin: 10%;
 }
+
+nav > ul {
+    color: rgb(121, 177, 195);
+    font-size: 14px;
+}
+
+footer{
+    justify-self: center;
+    font-size: 12px;
+    color:rgb(199, 199, 199);
+}
+
