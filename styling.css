@@ -34,7 +34,7 @@ nav > ul {
 }
 
 footer{
-    justify-self: center;
+    align-self: center;
     font-size: 12px;
     color:rgb(199, 199, 199);
 }
