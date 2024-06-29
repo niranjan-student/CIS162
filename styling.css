@@ -1,0 +1,13 @@
+html {
+    background-color: darkslategrey;
+    font-family: monospace;
+}
+
+header{
+    font-weight: bold;
+    color:chartreuse;
+
+}
+section {
+    color: grey;
+}
