@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+
 html{
     background-color: powderblue;
 }
@@ -7,8 +10,9 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-size: 24px;
-    font-family: "Roboto";
-    display: block;
+    font-family: "Poppins";
+    display: flex;
+    justify-content: center;
 }
 
 nav{
