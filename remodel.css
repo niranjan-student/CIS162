@@ -4,13 +4,15 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-size: 24px;
+    font-family: Helvetica;
 }
 
 nav{
     color: seagreen;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Arial Black";
     font-weight: bold;
     font-size: 32px;
+    
     
 }
 
@@ -18,6 +20,7 @@ h1{
     color: darkcyan;
     font: bolder;
     font-size: 48 px;
+    font-family: "Arial Black";
 }
 
 h2{
@@ -28,7 +31,7 @@ h2{
 
 nav > ul{
     list-style-type: none;
-    float: left;
+    float:inline-start;
     margin: auto;
 }
 
