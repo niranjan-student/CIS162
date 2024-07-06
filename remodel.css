@@ -4,7 +4,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     font-size: 24px;
-    font-family: Helvetica;
+    font-family: "Roboto";
 }
 
 nav{
@@ -12,6 +12,8 @@ nav{
     font-family: "Arial Black";
     font-weight: bold;
     font-size: 32px;
+    align-items: center;
+    justify-content: space-evenly;
     
     
 }
@@ -33,6 +35,14 @@ nav > ul{
     list-style-type: none;
     float:inline-start;
     margin: auto;
+}
+
+a:visited{
+    color: rgb(74, 192, 133);
+
+}
+a:hover{
+    background-color: paleturquoise;
 }
 
 
