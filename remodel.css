@@ -12,26 +12,43 @@ body {
     font-size: 24px;
     font-family: "Poppins";
     display: block;
-    justify-content: inline;
+    justify-items: center;
+    
 }
 
 nav{
     color: seagreen;
+    /* background-color: powderblue; */
     font-family: "Arial Black";
     font-weight: bold;
     font-size: 32px;
-    align-items: center;
     justify-content: space-evenly;
-    
-    
+    display:inline-flex;
+    width: 100%;
+    /* margin-right: 10%; */
+    /* margin-left:10%; */
+    /* float:inline-start; */
+    /* display: inline-flex; */
+  
 }
 
-h1{
+header{
     color: darkcyan;
     font: bolder;
     font-size: 48px;
     font-family: "Arial Black";
-    background-color: powderblue;
+    /* background-color: powderblue; */
+    display: inline;
+    justify-self: normal;
+    justify-items: center;
+    text-align: center;
+    /* text-align: center; */
+    /* width: 20%; */
+    /* display: inline-flex; */
+}
+
+h1{
+    text-align: center;
 }
 
 h2{
@@ -40,11 +57,15 @@ h2{
     font-size: 40px;
 }
 
-nav > ul{
+nav > p{
     list-style-type: none;
-    float:inline-start;
+    /* float:inline-start; */
     margin: auto;
-    display: inline;
+    /* display: inline; */
+    /* padding-left: 20%;
+    padding-right: 20%; */
+    /* background-color: powderblue; */
+
 }
 
 a:visited{
@@ -52,8 +73,31 @@ a:visited{
 
 }
 a:hover{
-    background-color: paleturquoise;
+    background-color: powderblue;
 }
 
+section{
+    /* float:left; */
+    /* margin: 5%; */
+    color:rgb(0, 99, 99);
+    /* width: 40%; */
+
+    
+}
+div{
+    justify-self: center;
+    /* justify-items:; */
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10%;
+
+}
+
+footer{
+    font-size: 12px;
+    /* justify-items:; */
+    display:inline;
+    text-align: center;
+}
 
 
